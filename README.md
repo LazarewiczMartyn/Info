@@ -25,12 +25,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LazarewiczMartyn&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LazarewiczMartyn&theme=dark&hide_border=false&fire=DD2727)
+![Martyn GitHub stats](https://github-readme-stats.vercel.app/api?username=LazarewiczMartyn&show_icons=true&theme=transparent)
+[![Martyn GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LazarewiczMartyn&theme=tokyonight&fire=DD2727&background=FF2D2D00&currStreakLabel=025CDA&currStreakNum=417E87&ring=025CDA&sideNums=417E87&sideLabels=025CDA&stroke=025CDA&dates=417E87)](https://git.io/streak-stats)
   
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LazarewiczMartyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Martyn Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LazarewiczMartyn&theme=dark&layout=compact)
 
 ![image](https://www.codewars.com/users/LazarewiczMartyn/badges/large)
 
